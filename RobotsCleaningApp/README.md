@@ -68,6 +68,6 @@ mvn test
 
 ## Author
 
-- **danielmartinmrt**
+- **Daniel Martín Martín**
 
 
