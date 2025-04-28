@@ -62,6 +62,7 @@ mvn test
 - `src/main/java/com/robotscleaningapp/service/impl/RobotInputService`: Represents the class for capturing the initial position of robots. You can initialize multiple robots and assign them to different areas.
 - `src/main/java/com/robotscleaningapp/service/impl/RobotMovementService`: Represents the class for processing robot movements, checking the boundaries of the area or other robots. 
 - `src/main/java/com/robotscleaningapp/service/impl/RobotProcessingService`: Represents the class for processing robot movements and capturing their initial positions.
+- `src/main/java/com/robotscleaningapp/util/Constants`: Represents the class where constants are defined to define the number of robots and areas to work with, default position of origin of coordinates or number of grid points to advance...
 - `src/test/java`: Unit and integration tests.
 - `src/main/resources`: Configuration files and resources.
 
